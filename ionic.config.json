@@ -1,0 +1,7 @@
+{
+  "name": "biometrics",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
